@@ -1,4 +1,4 @@
-# Webshop-Gebruikerlijst-Superbrains
+# -Gebruikerlijst-Superbrains
 In dit repository zit de versie bestanden van de gebruikerlijst en webshop uit wordpress collectief bij elkaar.
 
 1. Je kan bij de gebruikerlijst zelf de .CSV files bewerken en ook opslaan één voor één op in de MySQL-database. 
